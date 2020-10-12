@@ -1,4 +1,4 @@
-package main
+go package main
 
 import "fmt"
 
@@ -11,5 +11,5 @@ func greet(name string) {
 	fmt.Println(name)
 }
 
-// greet is declared with a parameter
+// greet is declared with a paramete
 // when calling greet, pass in an argument
